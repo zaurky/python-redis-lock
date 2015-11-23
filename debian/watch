@@ -1,0 +1,2 @@
+version=3
+https://github.com/ionelmc/python-redis-lock/releases /ionelmc/python-redis-lock/archive/v(.+)\.tar\.gz
